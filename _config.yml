@@ -6,10 +6,10 @@ rdiscount:
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 title : 日落大道
 production_url : https://www.wuwangyan.org
-description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Carlos Alexandro Becker."
-disqus_shortname: caarlos0blog
-analytics: UA-32899481-1
-gauges: 50f2b533613f5d7c8000000c
+description: "我们奔跑在这条路的中间，我们哭泣着在着条路的两端。"
+disqus_shortname: 
+analytics: 
+gauges: 
 author :
   name : 吴望言
   github : 4ga1n

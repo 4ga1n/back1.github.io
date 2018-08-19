@@ -1,0 +1,22 @@
+---
+layout: layout
+title: "Posts"
+permalink: /category/
+---
+
+
+
+<section class="content">
+    {% for category in site.categories %}
+    {% capture cat %}{{ category | first }}{% endcapture %}
+
+    <h1 class="thin">{{ cat | capitalize }}</h1>
+    <ul class="listing">
+    {% for post in site.categories[cat] %}
+    <li>
+      <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+    </ul>
+    {% endfor %}
+</section>

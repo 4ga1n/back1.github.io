@@ -5,14 +5,14 @@ rdiscount:
   extensions: [smart]
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 title : Carlos Becker
-production_url : http://carlosbecker.com
+production_url : https://4ga1n.github.io
 description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Carlos Alexandro Becker."
 disqus_shortname: caarlos0blog
 analytics: UA-32899481-1
 gauges: 50f2b533613f5d7c8000000c
 author :
-  name : Carlos Alexandro Becker
-  github : caarlos0
-  twitter : caarlos0
-  email: caarlos0@gmail.com
+  name : wuwangyan
+  github : 4ga1n
+  twitter : 
+  email: 
 baseurl: /up

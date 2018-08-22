@@ -1,0 +1,15 @@
+---
+layout: layout
+title: "Tools"
+---
+
+<section class="content">
+  <h1 class="thin">工具和资源</h1>
+  <ul class="listing">
+    {% for post in site.categories.tools %}
+    <li>
+      <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

@@ -3,6 +3,7 @@ layout: post
 title: "我分享的音乐资源"
 category: tools
 ---
+[日落大道](https://y.qq.com/n/yqq/song/001WLjx03vdk3v.html)
 
 很多人都说自己很喜欢音乐，但其实比起懂音乐的人，你喜欢的只是听歌，但这却是懂音乐的人容易丧失的东西。
 

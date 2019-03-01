@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "每日给自己的信"
-category: diary
+title: "Opencv Java: transform 1 and 3 channels pics to 4 channels pics"
+category: tools
 ---
 
 I searched web for code that implements the function of transform 1 and 3 channels pics to 4 channels pics using java opencv, turned out that there is only c++ and python code available. So I found out how to do this in Java and shared here. 

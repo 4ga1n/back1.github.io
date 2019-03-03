@@ -20,4 +20,4 @@ google搜索
 在官网自行寻找或查看源代码寻找。
 
 我每日订阅的例子:
-![pic]9https://www.wuwangyan.org/images/20190303.jpg)
+![pic](https://www.wuwangyan.org/images/20190303.jpg)

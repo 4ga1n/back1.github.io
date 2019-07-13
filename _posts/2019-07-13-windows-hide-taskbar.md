@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the best way to hide taskbar on windows"
+title: "The best way to hide taskbar on windows"
 category: tools
 ---
 

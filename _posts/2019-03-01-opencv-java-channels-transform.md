@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Opencv Java: transform 1 and 3 channels pics to 4 channels pics"
+title: "Opencv Java: Transform 1 and 3 channels pics to 4 channels pics"
 category: tools
 ---
 

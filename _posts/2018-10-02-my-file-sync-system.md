@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "我的文件同步系统"
-category: diary
+category: tools
 ---
 
 我推荐的同步工具主要有：onenote，onedrive，mega网盘，百度云，本地硬盘、U盘或移动硬盘，以及VPS自建网盘。

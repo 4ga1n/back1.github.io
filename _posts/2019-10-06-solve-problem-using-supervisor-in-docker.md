@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solve "unix:///var/run/supervisor.sock refused connection" when using supervisor in docker container"
+title: "Solve \"unix:///var/run/supervisor.sock refused connection\" when using supervisor in docker container"
 category: tools
 ---
 

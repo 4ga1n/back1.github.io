@@ -4,7 +4,7 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
-title : 日落大道
+title : ZanXin
 production_url : https://www.wuwangyan.org
 description: "我们奔跑在这条路的中间，我们哭泣着在着条路的两端。"
 disqus_shortname: 
